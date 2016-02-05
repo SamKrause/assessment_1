@@ -47,7 +47,7 @@ nav a:hover {
 /* Main Content */
 .main-content {
   width: 100%;
-  height: 250px;
+  height: 700px;
 }
 
 .main-content h1 {
@@ -78,3 +78,11 @@ nav a:hover {
 }
 
 /* Footer */
+
+footer {
+  width: 100%;
+  height: 200px;
+  background-color: #aabbbb
+}
+
+logo
